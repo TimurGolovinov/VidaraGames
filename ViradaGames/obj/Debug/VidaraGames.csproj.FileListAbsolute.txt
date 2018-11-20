@@ -1,0 +1,10 @@
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\bin\Debug\ViradaGames.exe.config
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\bin\Debug\ViradaGames.exe
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\bin\Debug\ViradaGames.pdb
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\obj\Debug\ViradaGames.viradaGames.resources
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\obj\Debug\ViradaGames.Properties.Resources.resources
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\obj\Debug\VidaraGames.csproj.GenerateResource.cache
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\obj\Debug\VidaraGames.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\obj\Debug\ViradaGames.exe
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\obj\Debug\ViradaGames.pdb
+E:\Programming\C#\Programming II\Portfolio\AT2\VidaraGames\ViradaGames\obj\Debug\VidaraGames.csprojResolveAssemblyReference.cache
